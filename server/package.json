@@ -1,0 +1,20 @@
+{
+  "name": "nd-6-hw2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhorodniy/nd-6-hw2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yhorodniy/nd-6-hw2/issues"
+  },
+  "homepage": "https://github.com/yhorodniy/nd-6-hw2#readme",
+  "description": ""
+}
